@@ -1,0 +1,6 @@
+spec_version: 1
+name: sql-query-generator
+type: space
+runtime: fastapi
+app: main:app
+port: 7860
